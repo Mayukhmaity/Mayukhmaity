@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayukhmaiti
 - 👀 I’m interested in Music, Sports and Adventures
 - 🌱 I’m currently learning Rust and Golang
-- 🌱 I'm Senior NLP Engineer and Manager
+- 🌱 I'm Senior NLP Engineer and Manager in Big Four Accounting Firms
 - 💞️ I’m looking to collaborate on Machine Learning and Backend projects
 - 📫 How to reach me ...
 
